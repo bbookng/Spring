@@ -1,5 +1,5 @@
 package japbook.japshop.domain;
 
 public enum OrderStatus {
-    ORDER, CANSEL
+    ORDER, CANCEL
 }
